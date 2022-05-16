@@ -1,0 +1,13 @@
+*{margin: 0;}
+header{text-align: center;}
+form{margin-left: 40%;margin-top: 5px;}
+form label,input{margin-top: 5px;}
+form input{width: 50%;border-radius: 5px;}
+button{
+    margin-top: 5px;
+    padding: 5px;
+    background-color: green;
+    color: aliceblue;
+    font-size: medium;
+    border-radius: 5px;
+}
